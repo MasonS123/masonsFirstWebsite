@@ -1,0 +1,19 @@
+*{
+	color: rgb( 103, 44, 70);
+}
+h2{
+	color: blue;
+}
+.major-heading{
+	color: green;
+}
+#bio-intro {
+	background-color: yellow;
+}
+h3, h4{
+	background-color: orange;
+}
+p.Example {
+	font-family: Garamond;
+	background-color: blue;
+}
